@@ -1,4 +1,4 @@
-(define-module (benwr packages userherd)
+(define-module (josef packages userherd)
   #:use-module (guix build-system copy)
   #:use-module (guix download)
   #:use-module (guix gexp)
