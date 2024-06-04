@@ -1,4 +1,4 @@
-(define-module (benwr services zabbix)
+(define-module (josef services zabbix)
   #:use-module (gnu services)
   #:use-module (gnu services shepherd)
   #:use-module (gnu services configuration)
