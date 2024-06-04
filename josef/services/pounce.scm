@@ -1,4 +1,4 @@
-(define-module (benwr services pounce)
+(define-module (josef services pounce)
   #:use-module (gnu services)
   #:use-module (gnu services shepherd)
   #:use-module (gnu services configuration)
