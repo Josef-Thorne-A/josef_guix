@@ -1,4 +1,4 @@
-(define-module (benwr services tailscale)
+(define-module (josef services tailscale)
 	       #:use-module (gnu services)
 	       #:use-module (gnu services shepherd)
 	       #:use-module (gnu services configuration)
