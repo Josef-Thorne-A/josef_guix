@@ -30,3 +30,4 @@
       "Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.")
     (home-page "https://tailscale.com/")
     (license #f)))
+tailscale
