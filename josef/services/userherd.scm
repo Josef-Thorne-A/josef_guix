@@ -1,4 +1,4 @@
-(define-module (benwr services userherd)
+(define-module (josef services userherd)
   #:use-module (gnu services)
   #:use-module (gnu services shepherd)
   #:use-module (gnu services configuration)
@@ -6,7 +6,7 @@
   #:use-module (guix records)
   #:use-module (gnu packages base)
   #:use-module (gnu packages admin)
-  #:use-module (benwr packages userherd)
+  #:use-module (josef packages userherd)
   #:export (userherd-service-type)
 )
 
